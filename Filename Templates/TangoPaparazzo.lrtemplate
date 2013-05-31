@@ -1,0 +1,32 @@
+s = {
+	deflated = {
+		{
+			"TP.",
+			{
+				value = "date_YYYYMMDD",
+			},
+			".",
+			{
+				value = "date_Hour",
+			},
+			"",
+			{
+				value = "date_Minute",
+			},
+			".",
+			{
+				value = "image_filename_number_suffix",
+			},
+			"",
+			name = "TangoPaparazzo",
+			presetType = "Naming",
+		},
+		"AgTokenPresets",
+		"restoreTokenFromArchivedState",
+	},
+	id = "C963AE27-5248-4BBD-924B-BD1AE0FC562B",
+	internalName = "TangoPaparazzo",
+	title = "TangoPaparazzo",
+	type = "Naming_Tokens",
+	version = 0,
+}

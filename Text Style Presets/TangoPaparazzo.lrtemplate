@@ -1,0 +1,26 @@
+s = {
+	id = "A78193B4-0A1E-49DC-AC99-885778B5B2AC",
+	internalName = "TangoPaparazzo",
+	title = "TangoPaparazzo",
+	type = "NamedTextStylePreset",
+	value = {
+		items = {
+			{
+				alignment = "AlignLeft",
+				autoKerning = true,
+				autoLeading = true,
+				baselineShift = 0,
+				blue = 0,
+				fontFamily = "Gabriola",
+				fontSize = 15,
+				fontStyle = "Regular",
+				green = 0,
+				leading = 18,
+				opacity = 100,
+				red = 0,
+				tracking = 0,
+			},
+		},
+	},
+	version = 0,
+}

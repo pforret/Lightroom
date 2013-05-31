@@ -1,0 +1,33 @@
+s = {
+	id = "67FBFC6E-70C0-4732-97DB-C1219BEF6041",
+	internalName = "Milonga.be",
+	title = "Milonga.be",
+	type = "WatermarkingPreset",
+	value = {
+		items = {
+			{
+				anchor = "bottomleft",
+				horizontalPadding = 0,
+				kind = "text",
+				opacity = 0.753,
+				orientation = "AB",
+				sizeKind = "relative",
+				sizeRelativeAmount = 0.133,
+				text = "(c) 2012 www.milonga.be",
+				textColorBlue = 1,
+				textColorGreen = 1,
+				textColorRed = 1,
+				textFontName = "Myriad Web Pro-Regular",
+				textHorizontalAlignment = "left",
+				textShadowAngle = 270,
+				textShadowEnabled = true,
+				textShadowOffset = 0.1,
+				textShadowOpacity = 0.8,
+				textShadowRadius = 0.2,
+				textVerticalAlignment = "top",
+				verticalPadding = 0,
+			},
+		},
+	},
+	version = 0,
+}

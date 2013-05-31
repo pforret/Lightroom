@@ -1,0 +1,21 @@
+s = {
+	id = "7E240292-E5CE-4C51-9499-B4E0E9B08B95",
+	internalName = "TangoPaparazzo",
+	title = "TangoPaparazzo",
+	type = "Metadata",
+	value = {
+		["com.adobe.caption"] = "",
+		["com.adobe.colorLabels"] = "",
+		["com.adobe.copyname"] = "",
+		["com.adobe.copyright"] = "Tango Paparazzo",
+		["com.adobe.copyrightInfoURL"] = "http://tangopaparazzo.com",
+		["com.adobe.copyrightState"] = true,
+		["com.adobe.creator"] = "Tango Paparazzo",
+		["com.adobe.creatorCity"] = "Brussels",
+		["com.adobe.creatorCountry"] = "Belgium",
+		["com.adobe.rating"] = "",
+		["com.adobe.userComment"] = "",
+		uuid = "C9494B97-B4B6-485F-8E00-F2A6AE043E47",
+	},
+	version = 0,
+}

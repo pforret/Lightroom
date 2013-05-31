@@ -1,0 +1,20 @@
+s = {
+	id = "D8A12C85-B559-4BE7-BC50-75966A7709AB",
+	internalName = "Milonga.be",
+	title = "Milonga.be",
+	type = "Metadata",
+	value = {
+		["com.adobe.caption"] = "",
+		["com.adobe.colorLabels"] = "",
+		["com.adobe.copyname"] = "",
+		["com.adobe.copyright"] = "www.milonga.be",
+		["com.adobe.copyrightInfoURL"] = "http://www.milonga.be",
+		["com.adobe.copyrightState"] = true,
+		["com.adobe.creator"] = "Peter Forret",
+		["com.adobe.creatorCity"] = "Brussels",
+		["com.adobe.creatorCountry"] = "Belgium",
+		["com.adobe.rating"] = "",
+		uuid = "8C6FDC21-908F-4621-AC8A-6F6854415A2F",
+	},
+	version = 0,
+}

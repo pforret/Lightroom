@@ -1,0 +1,21 @@
+s = {
+	id = "077B9A9C-4661-4FAF-8C24-992BE295EF49",
+	internalName = "Untitled Preset",
+	title = "iPhone",
+	type = "Metadata",
+	value = {
+		["com.adobe.caption"] = "",
+		["com.adobe.colorLabels"] = "iphone",
+		["com.adobe.copyname"] = "iPhone",
+		["com.adobe.copyright"] = "TangoPaparazzo",
+		["com.adobe.copyrightInfoURL"] = "",
+		["com.adobe.copyrightState"] = "",
+		["com.adobe.creator"] = "",
+		["com.adobe.creatorCity"] = "",
+		["com.adobe.creatorCountry"] = "",
+		["com.adobe.rating"] = "",
+		["com.adobe.userComment"] = "iPhone 4S",
+		uuid = "3E691235-2862-4AD0-9DC0-DE29FF2450E4",
+	},
+	version = 0,
+}
