@@ -1,7 +1,7 @@
 s = {
 	id = "0348E75C-A65D-4D80-9EA5-729960DD8D8E",
 	internalName = "PortrColor1",
-	title = "PortrColor1",
+	title = "COL Portrait Contrast",
 	type = "Develop",
 	value = {
 		settings = {
