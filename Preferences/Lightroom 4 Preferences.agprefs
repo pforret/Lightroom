@@ -113,14 +113,14 @@ prefs = {
 	AgDevelop_customCropAspectFrame_showCmd = 1,
 	AgDevelop_detailPanel_Collapsed = true,
 	AgDevelop_detailPanel_ExpansionState = 0,
-	AgDevelop_dustSpotOpacity = 0.967,
-	AgDevelop_dustSpotRadius = 0.080785,
+	AgDevelop_dustSpotOpacity = 0.555,
+	AgDevelop_dustSpotRadius = 0.0178634,
 	AgDevelop_editPointCurve = true,
 	AgDevelop_effectsPanel_Collapsed = false,
 	AgDevelop_effectsPanel_ExpansionState = 0,
 	AgDevelop_hideTargetAdjustmentInfoMomentarily = false,
 	AgDevelop_highlightClippingOnMouseOver = true,
-	AgDevelop_histogramPanel_ExpansionState = 1,
+	AgDevelop_histogramPanel_ExpansionState = 0,
 	AgDevelop_leftPanels_inSoloMode = true,
 	AgDevelop_lensCorrectionsPanel_Collapsed = true,
 	AgDevelop_lensCorrectionsPanel_ExpansionState = 0,
@@ -130,7 +130,7 @@ prefs = {
 	AgDevelop_localizedBrushAddValue = 1,
 	AgDevelop_localizedBrushFeather = 1,
 	AgDevelop_localizedBrushFlow = 1,
-	AgDevelop_localizedBrushSize = 0.102,
+	AgDevelop_localizedBrushSize = 0.09,
 	AgDevelop_localizedBrushStrokeOpacity = 1,
 	AgDevelop_localizedClarity2012Last = 0.5,
 	AgDevelop_localizedClarityLast = 0.5,
@@ -151,7 +151,7 @@ prefs = {
 	AgDevelop_localizedPaintContrast2012 = 0,
 	AgDevelop_localizedPaintDefringe = 0,
 	AgDevelop_localizedPaintExposure = 0,
-	AgDevelop_localizedPaintExposure2012 = 0.26425,
+	AgDevelop_localizedPaintExposure2012 = 0.1725,
 	AgDevelop_localizedPaintHighlights2012 = 0,
 	AgDevelop_localizedPaintLuminanceNoise = 0,
 	AgDevelop_localizedPaintMidtones = 0,
@@ -161,7 +161,7 @@ prefs = {
 	feather = 1,\
 	flow = 1,\
 	opacity = 1,\
-	size = 0.102,\
+	size = 0.09,\
 }\
 ",
 	AgDevelop_localizedPaintPreset_b = "preset = {\
@@ -183,11 +183,11 @@ prefs = {
 }\
 ",
 	AgDevelop_localizedPaintSaturation = 0,
-	AgDevelop_localizedPaintShadows2012 = 0,
-	AgDevelop_localizedPaintSharpness = 0,
+	AgDevelop_localizedPaintShadows2012 = 0.21839,
+	AgDevelop_localizedPaintSharpness = 0.25,
 	AgDevelop_localizedPaintTemperature = 0,
 	AgDevelop_localizedPaintTint = 0,
-	AgDevelop_localizedPaintTintHue = 275,
+	AgDevelop_localizedPaintTintHue = 240,
 	AgDevelop_localizedPaintTintSaturation = 0,
 	AgDevelop_localizedSaturationLast = 0.25,
 	AgDevelop_localizedShadows2012Last = 0.25,
@@ -203,7 +203,7 @@ prefs = {
 	view_modes = true,\
 }\
 ",
-	AgDevelop_mixerPanel_Collapsed = true,
+	AgDevelop_mixerPanel_Collapsed = false,
 	AgDevelop_mixerPanel_ExpansionState = 0,
 	AgDevelop_namedSettingsFrame = AgRect( 290, 162, 902, 605 ),
 	AgDevelop_namedSettingsFrame_showCmd = 1,
@@ -232,7 +232,7 @@ prefs = {
 	AgDevelop_showTargetAdjustmentAmount = 0,
 	AgDevelop_splitToningPanel_Collapsed = true,
 	AgDevelop_splitToningPanel_ExpansionState = 0,
-	AgDevelop_spotType = "clone",
+	AgDevelop_spotType = "heal",
 	AgDevelop_target = "activePhoto",
 	AgDevelop_targetAdjustment = "Exposure2012",
 	AgDevelop_targetPanelContent = false,
@@ -245,7 +245,7 @@ prefs = {
 	AgDevelop_toolbar_revealedState = "normal",
 	AgDocument_defaultModuleID = "com.adobe.ag.develop",
 	AgDocument_moduleHost_firstPanelShowing = false,
-	AgDocument_moduleHost_lastPanelShowing = true,
+	AgDocument_moduleHost_lastPanelShowing = false,
 	AgDocument_moduleHost_lastPanelSize = 122,
 	AgDrawing_mirrorImageMode = false,
 	AgEditExternally_putInStack = true,
@@ -284,7 +284,7 @@ prefs = {
 	AgExport_export_bitDepth = 16,
 	AgExport_export_colorSpace = "sRGB",
 	AgExport_export_colorSpaceJPEG = "sRGB",
-	AgExport_export_destinationPathSuffix = "2013-04-28-SHootOrnella",
+	AgExport_export_destinationPathSuffix = "2013-08-15-Chocolate1",
 	AgExport_export_destinationType = "specificFolder",
 	AgExport_export_postProcessing = "revealInFinder",
 	AgExport_export_useSubfolder = true,
@@ -340,8 +340,8 @@ prefs = {
 	AgFilenameIllegalChar_policy = "replaceWithDash",
 	AgFilenameSpace_policy = "allowSpaces",
 	AgHTemplateBrowserView_expandedFolders_Develop = "s = {\
+	[\"User Presets\"] = true,\
 	_tangopaparazzo = true,\
-	[\"onOne Movie Looks\"] = true,\
 }\
 ",
 	AgHTemplateBrowserView_expandedFolders_Export = "s = {\
@@ -397,11 +397,11 @@ prefs = {
 	AgImport_importServiceProvider = "com.adobe.ag.import.file",
 	AgImport_importServiceProviderTitle = "Files on Disk",
 	AgImport_initialSequenceNumber = 1,
-	AgImport_keywords = "patiodetango, brussels, concert, demo",
+	AgImport_keywords = "",
 	AgImport_lastCopyBehavior = "copyToLibrary",
-	AgImport_lastImportPath = "C:\\Users\\Peter\\Downloads\\BTF_FabioPictures",
-	AgImport_metadataPresetID = "8C6FDC21-908F-4621-AC8A-6F6854415A2F",
-	AgImport_previewBuildQuality = "prev",
+	AgImport_lastImportPath = "D:\\PHOTO\\NEW\\2013\\2013-06",
+	AgImport_metadataPresetID = "C9494B97-B4B6-485F-8E00-F2A6AE043E47",
+	AgImport_previewBuildQuality = "final",
 	AgImport_previewJPEGQuality = 0.75,
 	AgImport_recursivelyScanFolders = true,
 	AgImport_renamingTokensOn = true,
@@ -413,6 +413,7 @@ prefs = {
 	AgImport_sourcePanel_Enabled = true,
 	AgImport_sourcePanels_inSoloMode = false,
 	AgImport_standardPreviewSize = 1440,
+	AgImport_suppressImportDialog = false,
 	AgImport_thumbnailSize = 175.465,
 	AgImport_tokenCustomString = "",
 	AgImport_tokenShootName = "",
@@ -508,7 +509,7 @@ prefs = {
 	AgLibrary_keywords_shortcut8title = "milonga",
 	AgLibrary_keywords_shortcut9title = "tangotinto",
 	AgLibrary_keywords_useSpaceForSeparator = false,
-	["AgLibrary_lastBackupDateE750BDE6-FD8B-4DC7-8D41-A5A38E404D1F"] = 391507045.76115,
+	["AgLibrary_lastBackupDateE750BDE6-FD8B-4DC7-8D41-A5A38E404D1F"] = 394888178.30673,
 	AgLibrary_leftPanels_inSoloMode = true,
 	AgLibrary_libraryPanel_Collapsed = true,
 	AgLibrary_link2up = true,
@@ -599,7 +600,7 @@ prefs = {
 ",
 	AgLibrary_survey_target = "activePhoto",
 	AgLibrary_targetPhotoMetadataOnly = false,
-	AgLibrary_thumbSize = 76.439155588506,
+	AgLibrary_thumbSize = 71.434342586207,
 	AgLibrary_tintGridWithColors = true,
 	AgLibrary_toolbar_revealedState = "normal",
 	AgLibrary_viewOptionsWindow = AgRect( 441, 81, 898, 484 ),
@@ -621,13 +622,15 @@ prefs = {
 	AgLocation_rightPanels_inSoloMode = false,
 	AgLocation_target = "activePhoto",
 	AgMRUPopupList_AgExport_destinationFolderPathPrefix = "s = {\
+	\"C:\\\\Users\\\\Peter\\\\GD_tangopaparazzo\\\\Google Drive\\\\PHOTO\\\\EXPORT\",\
+	\"C:\\\\Users\\\\Peter\\\\GD_tangopaparazzo\\\\Google Drive\\\\PHOTO\\\\EXPORT\\\\2013-05-25-Laetitia\",\
 	\"D:\\\\PHOTO\\\\EXPORT\",\
 }\
 ",
 	AgMRUPopupList_AgImportDialog_destinationFolderPath = "s = {\
 	\"D:\\\\PHOTO\\\\NEW\",\
-	\"D:\\\\\",\
 	\"C:\\\\Users\\\\Peter\\\\Pictures\",\
+	\"D:\\\\\",\
 }\
 ",
 	["AgMRUPopupList_Collection Description"] = "s = {\
@@ -660,8 +663,8 @@ prefs = {
 	AgMainFramePlacement_minPosition_x = -1,
 	AgMainFramePlacement_minPosition_y = -1,
 	AgMainFramePlacement_normalPosition_bottom = 738,
-	AgMainFramePlacement_normalPosition_left = 100,
-	AgMainFramePlacement_normalPosition_right = 1100,
+	AgMainFramePlacement_normalPosition_left = 366,
+	AgMainFramePlacement_normalPosition_right = 1366,
 	AgMainFramePlacement_normalPosition_top = 18,
 	AgMainFramePlacement_showCmd = 3,
 	AgMainFrame_screenMode = "normal",
@@ -671,7 +674,9 @@ prefs = {
 	AgMetadata_PresetsCreateFrame_showCmd = 1,
 	AgMetadata_PresetsEditorFrame = AgRect( 396, 84, 971, 684 ),
 	AgMetadata_PresetsEditorFrame_showCmd = 1,
+	AgMultiMonitor_alwaysRunInWindow = false,
 	AgMultiMonitor_autoResize = false,
+	AgMultiMonitor_backgroundShade = 0,
 	AgMultiMonitor_blankBackgroundColor = 0,
 	AgMultiMonitor_browserHeight = 170,
 	AgMultiMonitor_enablePlopupPreview = false,
@@ -681,16 +686,18 @@ prefs = {
 	AgMultiMonitor_overrideSettings = true,
 	AgMultiMonitor_previewSize = 300,
 	AgMultiMonitor_previewVisible = false,
+	AgMultiMonitor_secondWindowFrame = AgRect( 408, 144, 958, 594 ),
+	AgMultiMonitor_secondWindowFrame_showCmd = 1,
 	AgMultiMonitor_slideshowEnding = false,
 	AgMultiMonitor_slideshowIntro = false,
 	AgMultiMonitor_slideshowPauseOnIntro = false,
 	AgMultiMonitor_slideshowRepeat = false,
-	AgMultiMonitor_thumbSize = 120,
-	AgMultiMonitor_viewMode = "loupe",
+	AgMultiMonitor_thumbSize = 65,
+	AgMultiMonitor_viewMode = "images",
 	AgMultiMonitor_visible = false,
 	AgMultiMonitor_windowFilterBarVisible = false,
 	AgMultiMonitor_windowVisible = false,
-	AgNavigator_extraZoomLevel = 3,
+	AgNavigator_extraZoomLevel = 0.5,
 	AgNavigator_showPhotosOnMouseOver = true,
 	["AgNewCreationsDialog_AgNewCreationsDialog_makeVirtualCopiesForModule_com.adobe.ag.library.collection"] = false,
 	["AgNewCreationsDialog_AgNewCreationsDialog_makeVirtualCopiesForModule_com.adobe.ag.library.smart_collection"] = false,
@@ -1015,7 +1022,7 @@ prefs = {
 	DevelopLocalized_preset_gradient_ExpansionState = 1,
 	DevelopLocalized_preset_paint_ExpansionState = 1,
 	DevelopPanels_firstPanelShowing = true,
-	DevelopPanels_firstPanelSize = 275,
+	DevelopPanels_firstPanelSize = 263,
 	DevelopPanels_lastPanelShowing = true,
 	DevelopPanels_lastPanelSize = 263,
 	DevelopRenderWarningDialog_reviewChanges = true,
@@ -1099,7 +1106,7 @@ prefs = {
 	Layout_TypePanel_Collapsed = false,
 	Layout_thumbnailSize = 190,
 	LibraryPanels_firstPanelShowing = true,
-	LibraryPanels_firstPanelSize = 289,
+	LibraryPanels_firstPanelSize = 336,
 	LibraryPanels_lastPanelShowing = true,
 	LibraryPanels_lastPanelSize = 287,
 	Lightroom_userIdentityPlateEnabled = false,
@@ -1131,8 +1138,8 @@ prefs = {
 	Location_gpsFieldEnabled = true,
 	Location_stateFieldEnabled = true,
 	Location_sublocationFieldEnabled = true,
-	MultiMonitorPanels_firstPanelShowing = true,
-	MultiMonitorPanels_lastPanelShowing = true,
+	MultiMonitorPanels_firstPanelShowing = false,
+	MultiMonitorPanels_lastPanelShowing = false,
 	MultiMonitorPanels_syncPanels = true,
 	PrintModule_showPrintInfo = true,
 	PrintPanels_firstPanelShowing = true,
@@ -1146,6 +1153,12 @@ prefs = {
 	SlideshowPanels_lastPanelSize = 263,
 	Slideshow_target = "allAvailablePhotos",
 	Slideshow_thumbSize = 150,
+	SynchronizeFolder__gridFilter = "new",
+	SynchronizeFolder_deleteMissingPhotos = true,
+	SynchronizeFolder_forgetOrphanedSidecars = true,
+	SynchronizeFolder_importNewPhotos = true,
+	SynchronizeFolder_showImportDialog = true,
+	SynchronizeFolder_updateMetadata = true,
 	UseDefaultAntiAliasing = false,
 	VersionManagerCheckDate = 388787704.30987,
 	VersionManagerFailedCheckInterval = 3600,
@@ -1227,11 +1240,11 @@ prefs = {
 	recentLibraryBehavior20 = "UseMostRecentLibrary",
 	["sdk_com.adobe.export.oz"] = "prefs = {\
 	KillSwitchResponse = {\
-		localOSTime = 1370029877,\
+		localOSTime = 1376834506,\
 		locale = \"en_us\",\
 		plugin_version = \"4.4.0.891433\",\
 		status = \"ok\",\
-		timestamp = \"2013-05-31T12:51:14-07:00\",\
+		timestamp = \"2013-08-18T14:01:50+00:00\",\
 	},\
 }\
 ",
@@ -1248,11 +1261,11 @@ prefs = {
 	FACEBOOK_DISPLAY_NAME = \"Peter Forret\",\
 	FACEBOOK_UID = \"500851757\",\
 	KillSwitchResponse = {\
-		localOSTime = 1370029879,\
+		localOSTime = 1376834506,\
 		locale = \"en_us\",\
 		plugin_version = \"4.4.0.891433\",\
 		status = \"ok\",\
-		timestamp = \"2013-05-31T12:51:14-07:00\",\
+		timestamp = \"2013-08-18T14:01:50+00:00\",\
 	},\
 	addToPhotoset = false,\
 	defaultAlbum = \"92209626757\",\
@@ -1274,11 +1287,11 @@ prefs = {
 ",
 	["sdk_com.adobe.lightroom.export.flickr"] = "prefs = {\
 	KillSwitchResponse = {\
-		localOSTime = 1370029881,\
+		localOSTime = 1376834506,\
 		locale = \"en_us\",\
 		plugin_version = \"4.4.0.891433\",\
 		status = \"ok\",\
-		timestamp = \"2013-05-31T12:51:18-07:00\",\
+		timestamp = \"2013-08-18T14:01:37+00:00\",\
 	},\
 	addToPhotoset = false,\
 	fullname = \"Peter Forret\",\
